@@ -1,5 +1,5 @@
 #include <bits/stdc++.h>
-#include "alg.h"
+//#include "alg.h"
 
 
 static int count(int arr[], int x, int n);
